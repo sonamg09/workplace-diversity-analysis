@@ -10,11 +10,9 @@ Data Engineering: Python (Pandas, NumPy)
 
 Graph Theory: NetworkX (used for recursive hierarchy mapping)
 
-Statistical Modeling: Statsmodels (OLS Regression for bias inference)
-
 Machine Learning: Scikit-Learn (Random Forest Regressor for salary prediction)
 
-Visualization: Seaborn, Matplotlib, Pyvis
+Visualization: Seaborn, Matplotlib
 
 ## 🧬 Key Data Engineering: 
 
