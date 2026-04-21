@@ -16,7 +16,7 @@ Visualization: Seaborn, Matplotlib
 
 ## 🧬 Key Data Engineering: 
 
-The Graph ApproachUnlike standard flat-file analysis, this project treats the company as a Directed Acyclic Graph (DAG).
+*The Graph Approach*: Unlike standard flat-file analysis, this project treats the company as a Directed Acyclic Graph (DAG).
 
 *Recursive Levels*: Classified 10,000 employees into 6 tiers (IC, MM, Director, VP, Executive, CEO) by calculating the shortest path length from the CEO.
 
@@ -44,6 +44,9 @@ The "Leaky Pipeline": Female representation is strongest at the entry-level (36%
 
 *Technical Recruiting*: Focus DEI efforts on the Engineering department to close the raw salary gap, as it carries the highest departmental pay premium.
 
+## Salary Prediction
+
+[Salary Prediction CSV](final_salary_predictions.csv) contains all employees actual salary and predicted salary using Random forest Regressor.
 
 ## Graphs
 
