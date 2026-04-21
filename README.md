@@ -16,7 +16,7 @@ Visualization: Seaborn, Matplotlib
 
 ## 🧬 Key Data Engineering: 
 
-The Graph ApproachUnlike standard flat-file analysis, this project treats the company as a Directed Acyclic Graph (DAG).
+*The Graph Approach*: Unlike standard flat-file analysis, this project treats the company as a Directed Acyclic Graph (DAG).
 
 *Recursive Levels*: Classified 10,000 employees into 6 tiers (IC, MM, Director, VP, Executive, CEO) by calculating the shortest path length from the CEO.
 
