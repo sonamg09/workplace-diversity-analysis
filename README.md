@@ -44,6 +44,9 @@ The "Leaky Pipeline": Female representation is strongest at the entry-level (36%
 
 *Technical Recruiting*: Focus DEI efforts on the Engineering department to close the raw salary gap, as it carries the highest departmental pay premium.
 
+## Salary Prediction
+
+[Salary Prediction CSV](final_salary_predictions.csv) contains all employees actual salary and predicted salary using Random forest Regressor.
 
 ## Graphs
 
